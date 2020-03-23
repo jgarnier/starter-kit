@@ -18,7 +18,7 @@ Before starting anything, could be good to really setup a project management spa
 
 - For people who are really used to project management, they are more familiar with [Atlassian JIRA](https://www.atlassian.com/software/jira). This is really a powerful tool with plenty of nice features. There is a free option for non-profit. See [here](./project_management/jira.md) for more information about Trello.
 
-- [GitHub](https://github.com/) could also be used for managing project. See [here](./scm/github.md#Managing project) for more information about GitHub.
+- [GitHub](https://github.com/) could also be used for managing project. See [here](./scm/github.md#Managing%20project) for more information about GitHub.
 
 ## Source Code Management
 
