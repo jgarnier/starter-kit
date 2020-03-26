@@ -7,5 +7,6 @@
 	* [Github](./scm/github.md)
 * [Source Code Management](./scm/README.md)
 	* [Github](./scm/github.md)
+	* [Bitbucket](./scm/bitbucket.md)
 * [Documentation](./documentation/README.md)
 	* [Gitbook](./documentation/gitbook.md)

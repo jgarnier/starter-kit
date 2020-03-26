@@ -24,6 +24,9 @@ Before starting anything, could be good to really setup a project management spa
 
 - [GitHub](https://github.com/) brings together the world's largest community of developers to discover, share, and build better software. This is a well known tool for managing your source code. See [here](./scm/github.md) for more information about GitHub.
 
+- [Bitbucket](https://www.atlassian.com/software/bitbucket) is more than just Git code management. Bitbucket gives teams one place to plan projects, collaborate on code, test, and deploy.
+
+
 ## Documentation
 
 - [GitHub](https://github.com/) could also be used for managing your documentation. See [here](./scm/github.md#Creating%20documentation) for more information about GitHub.
