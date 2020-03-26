@@ -16,4 +16,9 @@ As said previously, gitbook focus is now on the platform itself, so go to the [s
 ## Tips
 
 ### Integrations with Github
+
 If you're using Github, I will recommend then connecting your space with your repo, so follow the steps describe in [GitBook.com / GitHub integration](https://docs.gitbook.com/integrations/github).
+
+### Documentation exports
+
+The benefits of using the cli is that you can also export your documentation in [eBooks and PDFs](https://github.com/GitbookIO/gitbook/blob/master/docs/ebook.md) and also this is available as HTML pages. If you run gitbook build command, you will see that all MD files have been converted in HTML format under the _book directory.
