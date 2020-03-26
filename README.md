@@ -26,7 +26,7 @@ Before starting anything, could be good to really setup a project management spa
 
 ## Documentation
 
-- [GitHub](https://github.com/) could also be used for managing your documentation. See [here](./scm/github.md#Creating documentation) for more information about GitHub.
+- [GitHub](https://github.com/) could also be used for managing your documentation. See [here](./scm/github.md#Creating%20documentation) for more information about GitHub.
 - [Gitbook](https://www.gitbook.com/) is also a well known tool for creating documentation. I use it a lot and this is also done in this current project. See [here](./documentation/gitbook.md) for more information about Gitbook. Keep in mind that your documentation is really key for yourself, your users and everyone in your ecosystem.
 
 ## Platform
