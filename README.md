@@ -34,4 +34,14 @@ Before starting anything, could be good to really setup a project management spa
 
 ## Platform
 
-Given you need to have some visibility, this section aims to give all informations on the platfoms available, from hosting (Infra as a Service) to online services.
+Given you need to have some visibility, this section aims to give all informations on the platfoms available for hosting your services.
+
+- [Heroku](https://www.heroku.com/) is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in the cloud. See [here](./platform/heroku.md) for more information about Heroku.
+
+- [Amazon Web Services ](https://aws.amazon.com/) offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use. See [here](./platform/aws.md) for more information about AWS.
+
+## Websites
+
+This section will give details on the websites part.
+
+- [Let's Encrypt](https://letsencrypt.org/): A nonprofit Certificate Authority providing TLS certificates to 190 million websites. See [here](./web/letsencrypt.md) for more information about Let's Encrypt.

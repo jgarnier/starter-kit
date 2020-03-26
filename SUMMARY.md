@@ -10,3 +10,8 @@
 	* [Bitbucket](./scm/bitbucket.md)
 * [Documentation](./documentation/README.md)
 	* [Gitbook](./documentation/gitbook.md)
+* [Platform](./platform/README.md)
+	* [Heroku](./platform/heroku.md)
+	* [AWS](./platform/aws.md)
+* [Web](./web/README.md)
+	* [Let's Encrypt](./web/letsencrypt.md)
