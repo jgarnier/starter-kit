@@ -11,4 +11,10 @@ Simply go to [Atlassian Community License Request page](https://www.atlassian.co
 ## JIRA server
 
 If you've got the option to manage your JIRA server instance (see [hosting part](../README.md#Platform)) then, you can easily manage your project for free.
-TBC
+More information soon.
+
+## Tips
+
+### Project mode
+
+JIRA projects can be setup in different mode, as describe [here](https://confluence.atlassian.com/jirasoftwareserver0713/jira-applications-overview-965543142.html). I will recommend Software type in order to use it as either an issue tracker or Agile board so that this will be more effective for your project.

@@ -12,3 +12,13 @@ Simply go to the [sign-up page](https://trello.com/signup) in order to create yo
 
 Once connected, you've got access to your space where you will be able to manage your boards.
 You can simply create a new one or you could also reuse some of the templates. This is highly recommend to spend some time on the templates depending on your needs. For example, you can either use the [Agile Sprint Board](https://trello.com/templates/engineering/agile-sprint-board-ZqN99gGN) if you would like to start an Agile project or just a simple [TODO list](https://trello.com/templates/productivity/todo-list-template-A65ehygD)
+
+## Tips
+
+### Github integration
+
+You can connect your Trello project with your GitHub repo, see all this [Power-Up](https://trello.com/power-ups/55a5d916446f517774210004/github)
+
+### Bitbucket integration
+
+In case you're using Bitbucket, this is also possible to have your Trello board, more information [here](https://bitbucket.org/product/features/trello-boards)
