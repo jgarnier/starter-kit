@@ -1,10 +1,14 @@
 # starter-kit
 
-This [project](https://github.com/jgarnier/starter-kit) aims to geive a starter kit for non-profit organisation. By starter kit, I mean all relevant information on tooling for easily bootstrap your project without spending much time on finding resources available nor spending money you might not have once starting your project.
+This [project](https://github.com/jgarnier/starter-kit) aims to give a starter kit for non-profit organisation. By starter kit, I mean all relevant information on tooling for easily bootstrap your project without spending much time on finding resources available nor spending money you might not have once starting your project.
 
 ## Contributions
 
 First of all, if you would like to contribute to this [project](https://github.com/jgarnier/starter-kit), have a look at the current [license](./LICENSE) but keep in mind that any contributions are always more than welcome. Also, make sure you follow the [contributions guidelines](./CONTRIBUTING.md).
+
+## Credits
+
+Check the [authors](AUTHORS.md) who contribute to this project.
 
 ## Tools
 
